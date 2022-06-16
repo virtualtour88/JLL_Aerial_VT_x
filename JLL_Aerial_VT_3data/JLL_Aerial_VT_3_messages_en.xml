@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano37_title"><![CDATA[1_1]]></data>
+  <data name="en_spotpoint44_tooltip"><![CDATA[Bandra Worli Sealink]]></data>
+  <data name="en_spotpoint49_tooltip"><![CDATA[Amarsons Garden]]></data>
+  <data name="en_spotpoint51_tooltip"><![CDATA[Priyadarshani Park]]></data>
+  <data name="en_spotpoint53_tooltip"><![CDATA[Lower Parel]]></data>
+  <data name="en_spotpoint95_tooltip"><![CDATA[Jaslok Hospital]]></data>
+  <data name="en_spotpoint97_tooltip"><![CDATA[Villa Theresa School]]></data>
+  <data name="en_spotpoint100_tooltip"><![CDATA[Hanging Gardens]]></data>
+  <data name="en_spotpoint102_tooltip"><![CDATA[International Airport]]></data>
+  <data name="en_spotpoint104_tooltip"><![CDATA[Domestic Airport]]></data>
+  <data name="en_spotpoint106_tooltip"><![CDATA[Bandra Kurla Complex]]></data>
+  <data name="en_spotpoint108_tooltip"><![CDATA[Chowpatty Beach]]></data>
+  <data name="en_spotpoint110_tooltip"><![CDATA[Malabar Hill Club]]></data>
+  <data name="en_spotpoint112_tooltip"><![CDATA[Nariman Point]]></data>
+  <data name="en_spotpoint114_tooltip"><![CDATA[Colaba]]></data>
+  <data name="en_spotpoint121_tooltip"><![CDATA[Walkeshwar Temple]]></data>
+  <data name="en_spotpoint129_tooltip"><![CDATA[St. Elizabeth Hospital]]></data>
+
+
+  <data name="en_pano39_title"><![CDATA[7_7]]></data>
+  <data name="en_spotpoint134_tooltip"><![CDATA[Walkeshwar Temple]]></data>
+  <data name="en_spotpoint135_tooltip"><![CDATA[Colaba]]></data>
+  <data name="en_spotpoint136_tooltip"><![CDATA[Nariman Point]]></data>
+  <data name="en_spotpoint137_tooltip"><![CDATA[Malabar Hill Club]]></data>
+  <data name="en_spotpoint138_tooltip"><![CDATA[Chowpatty Beach]]></data>
+  <data name="en_spotpoint139_tooltip"><![CDATA[Domestic Airport]]></data>
+  <data name="en_spotpoint140_tooltip"><![CDATA[International Airport]]></data>
+  <data name="en_spotpoint141_tooltip"><![CDATA[Hanging Garden]]></data>
+  <data name="en_spotpoint142_tooltip"><![CDATA[Villa Theresa School]]></data>
+  <data name="en_spotpoint143_tooltip"><![CDATA[Lower Parel]]></data>
+  <data name="en_spotpoint144_tooltip"><![CDATA[Jaslok Hospital]]></data>
+  <data name="en_spotpoint145_tooltip"><![CDATA[Priyadarshani Park]]></data>
+  <data name="en_spotpoint146_tooltip"><![CDATA[Bandra Worli Sealink]]></data>
+  <data name="en_spotpoint147_tooltip"><![CDATA[Bandra Kurla Complex]]></data>
+  <data name="en_spotpoint148_tooltip"><![CDATA[Amarsons Garden]]></data>
+  <data name="en_spotpoint149_tooltip"><![CDATA[St. Elizabeth Hospital]]></data>
+
+
+
+
+
+
+  <data name="en_togglebuttonfirsttooltip"><![CDATA[]]></data>
+  <data name="en_togglebuttonsecondtooltip"><![CDATA[]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="en_controlBar_classicmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="en_controlBar_classicmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="en_controlBar_classicmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_togglebutton1firsttooltip"><![CDATA[]]></data>
+  <data name="en_togglebutton1secondtooltip"><![CDATA[]]></data>
+  <data name="en_call_out_titlescall_out_style_name"><![CDATA[Bandra Worli Sealink]]></data>
+  <data name="en_call_out_titles2call_out_style_name"><![CDATA[Amarsons Garden]]></data>
+  <data name="en_call_out_titles3call_out_style_name"><![CDATA[Priyadarshani Park]]></data>
+  <data name="en_call_out_titles4call_out_style_name"><![CDATA[Lower Parel]]></data>
+  <data name="en_call_out_titles5call_out_style_name"><![CDATA[Jaslok Hospital]]></data>
+  <data name="en_call_out_titles6call_out_style_name"><![CDATA[Villa Theresa School]]></data>
+  <data name="en_call_out_titles7call_out_style_name"><![CDATA[Hanging Gardens]]></data>
+  <data name="en_call_out_titles8call_out_style_name"><![CDATA[International Airport]]></data>
+  <data name="en_call_out_titles9call_out_style_name"><![CDATA[Domestic Airport]]></data>
+  <data name="en_call_out_titles10call_out_style_name"><![CDATA[Bandra Kurla Complex]]></data>
+  <data name="en_call_out_titles11call_out_style_name"><![CDATA[Chowpatty Beach]]></data>
+  <data name="en_call_out_titles12call_out_style_name"><![CDATA[Malabar Hill Club]]></data>
+  <data name="en_call_out_titles13call_out_style_name"><![CDATA[Nariman Point]]></data>
+  <data name="en_call_out_titles14call_out_style_name"><![CDATA[Colaba]]></data>
+  <data name="en_call_out_titles15call_out_style_name"><![CDATA[Walkeshwar Temple]]></data>
+  <data name="en_call_out_titles16call_out_style_name"><![CDATA[St Elizabeth Hospital]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+  <data name="en_spotpoint44_description"><![CDATA[<font color="#ffffff"><span style="background-color: rgb(0, 0, 0);">&nbsp; 8.6 km .&nbsp;</span></font>]]></data>
+  <data name="en_spotpoint49_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 2.8 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint51_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 750 mtr.&nbsp;</font>]]></data>
+  <data name="en_spotpoint53_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; <font size="2">7.1 km.&nbsp;</font></font><div><br></div>]]></data>
+  <data name="en_spotpoint95_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 3.0 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint97_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 2.9 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint100_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 2.9 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint102_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 24.0 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint104_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 21.2 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint106_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 18.7 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint108_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 2.2 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint110_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 1.5 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint112_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 7.5 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint114_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 9.5 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint121_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 1.3 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint129_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 400 mtr.&nbsp;</font>]]></data>
+
+
+
+  <data name="en_spotpoint134_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 1.3 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint135_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 9.5 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint136_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 7.5 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint137_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 1.5 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint138_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 2.2 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint139_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 21.2 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint140_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 24.0 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint141_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 2.9 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint142_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 2.9 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint143_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 7.1 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint144_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 3.0 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint145_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 750 mtr.&nbsp;</font>]]></data>
+  <data name="en_spotpoint146_description"><![CDATA[<span style="background-color: rgb(0, 0, 0);"><font color="#ffffff">&nbsp; 8.6 km.&nbsp;</font></span>]]></data>
+  <data name="en_spotpoint147_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 18.7 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint148_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 2.8 km.&nbsp;</font>]]></data>
+  <data name="en_spotpoint149_description"><![CDATA[<font color="#ffffff" style="background-color: rgb(0, 0, 0);">&nbsp; 400 mtr.&nbsp;</font>]]></data>
+
+</krpano>

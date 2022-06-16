@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19-pr16">
+
+    
+  <!-- Spot Style - Bandra Worli Sealink -->
+
+
+  <style name="IconBandraWorliSealink"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint0.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconBandraWorliSealink"
+         onout="onoutIconBandraWorliSealink"
+
+
+         />
+  <action name="onhoverIconBandraWorliSealink">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconBandraWorliSealink">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Amarsons Garden -->
+
+
+  <style name="IconAmarsonsGarden"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint1.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconAmarsonsGarden"
+         onout="onoutIconAmarsonsGarden"
+
+
+         />
+  <action name="onhoverIconAmarsonsGarden">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconAmarsonsGarden">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Priyadarshani Park -->
+
+
+  <style name="IconPriyadarshaniPark"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint2.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconPriyadarshaniPark"
+         onout="onoutIconPriyadarshaniPark"
+
+
+         />
+  <action name="onhoverIconPriyadarshaniPark">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconPriyadarshaniPark">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Lower Parel -->
+
+
+  <style name="IconLowerParel"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint3.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconLowerParel"
+         onout="onoutIconLowerParel"
+
+
+         />
+  <action name="onhoverIconLowerParel">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconLowerParel">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Jaslok Hospital -->
+
+
+  <style name="IconJaslokHospital"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint4.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconJaslokHospital"
+         onout="onoutIconJaslokHospital"
+
+
+         />
+  <action name="onhoverIconJaslokHospital">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconJaslokHospital">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Villa Theresa School -->
+
+
+  <style name="IconVillaTheresaSchool"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint5.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconVillaTheresaSchool"
+         onout="onoutIconVillaTheresaSchool"
+
+
+         />
+  <action name="onhoverIconVillaTheresaSchool">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconVillaTheresaSchool">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Hanging Gardens -->
+
+
+  <style name="IconHangingGardens"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint6.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconHangingGardens"
+         onout="onoutIconHangingGardens"
+
+
+         />
+  <action name="onhoverIconHangingGardens">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconHangingGardens">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - International Airport -->
+
+
+  <style name="IconInternationalAirport"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint7.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconInternationalAirport"
+         onout="onoutIconInternationalAirport"
+
+
+         />
+  <action name="onhoverIconInternationalAirport">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconInternationalAirport">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Domestic Airport -->
+
+
+  <style name="IconDomesticAirport"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint8.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconDomesticAirport"
+         onout="onoutIconDomesticAirport"
+
+
+         />
+  <action name="onhoverIconDomesticAirport">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDomesticAirport">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Bandra Kurla Complex -->
+
+
+  <style name="IconBandraKurlaComplex"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint9.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconBandraKurlaComplex"
+         onout="onoutIconBandraKurlaComplex"
+
+
+         />
+  <action name="onhoverIconBandraKurlaComplex">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconBandraKurlaComplex">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Chowpatty Beach -->
+
+
+  <style name="IconChowpattyBeach"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint10.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconChowpattyBeach"
+         onout="onoutIconChowpattyBeach"
+
+
+         />
+  <action name="onhoverIconChowpattyBeach">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconChowpattyBeach">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Malabar Hill Club -->
+
+
+  <style name="IconMalabarHillClub"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint11.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconMalabarHillClub"
+         onout="onoutIconMalabarHillClub"
+
+
+         />
+  <action name="onhoverIconMalabarHillClub">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconMalabarHillClub">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Nariman Point -->
+
+
+  <style name="IconNarimanPoint"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint12.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconNarimanPoint"
+         onout="onoutIconNarimanPoint"
+
+
+         />
+  <action name="onhoverIconNarimanPoint">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconNarimanPoint">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Colaba -->
+
+
+  <style name="IconColaba"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint13.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconColaba"
+         onout="onoutIconColaba"
+
+
+         />
+  <action name="onhoverIconColaba">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconColaba">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Walkeshwar Temple -->
+
+
+  <style name="IconWalkeshwarTemple"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint14.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconWalkeshwarTemple"
+         onout="onoutIconWalkeshwarTemple"
+
+
+         />
+  <action name="onhoverIconWalkeshwarTemple">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconWalkeshwarTemple">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - St Elizabeth Hospital -->
+
+
+  <style name="IconStElizabethHospital"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint15.png"
+         visible="false"
+         edge="center"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););"
+         onhover="onhoverIconStElizabethHospital"
+         onout="onoutIconStElizabethHospital"
+
+
+         />
+  <action name="onhoverIconStElizabethHospital">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconStElizabethHospital">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+<!-- ********** -->
+<!-- Day Button -->
+<!-- id : togglebutton -->
+<!-- ********** -->
+
+
+
+  <layer name="togglebutton"
+         keep="true"
+         url="%FIRSTXML%/graphics/togglebutton/day.png" 
+         align="topright"
+         x="10"
+         y="105"
+         zorder="1"
+         state="true"
+         onclick="togglebuttonOnClick"
+         onover="tween(scale, 1.2,0.5,easeOutQuad);"
+         onout="tween(scale, 1.0,0.5,easeOutQuad);"
+         visible="false"
+         />
+
+  <action name="togglebuttonOnClick">
+    if (state,
+      set(state, false);
+          mainloadscene(pano37);lookat(get(panoview.h), get(panoview.v), get(panoview.fov));
+
+
+     ,
+      set(state, true);
+
+    );
+  </action>
+
+  <events name="togglebuttonevents" 
+    onTourStart="showtogglebutton();"
+    hidetourcontrols="hidetogglebutton();" 
+    showtourcontrols="showtogglebutton();" 
+    keep="true" />
+  <action name="hidetogglebutton">set(layer[togglebutton].visible, false);</action>
+  <action name="showtogglebutton">if(tour_displaycontrols,set(layer[togglebutton].visible, true);,hidetogglebutton(););</action>
+
+
+<!-- ********** -->
+<!-- Logo -->
+<!-- id : logo -->
+<!-- ********** -->
+
+
+  <layer align="topright"
+         x="10"
+         y="10"
+         zorder="2"
+         name="logo"
+         keep="true"
+         visible="false"
+         capture="false"
+
+         url="%FIRSTXML%/graphics/logo/_1.png" 
+         handcursor="false"
+
+
+         />
+
+  <events name="logoevents" 
+    onTourStart="showlogo();"
+    keep="true" />
+
+  <action name="hidelogo">
+    set(layer[logo].visible, false);
+  </action>
+  <action name="showlogo">
+      set(layer[logo].visible, true);
+  </action>
+
+
+
+
+
+<!-- ********** -->
+<!-- Classic Control Bar -->
+<!-- id : controlBar_classic -->
+<!-- ********** -->
+
+  <krpano controlBar_classicbarbuilt="false" controlBar_classicbackgroundwidthwhenclosed="0" controlBar_classicbackgroundwidthwhenopened="0" controlBar_classicIsOpened="false" />
+  <events name="controlBar_classicevents" 
+    onxmlcomplete="controlBar_classicbuildMenuBar();" 
+
+
+    keep="true" />
+
+
+
+  <action name="controlBar_classicbuildMenuBar">
+    ifnot (controlBar_classicbarbuilt, controlBar_classicbuildMenu(); set(controlBar_classicbarbuilt, true););
+  </action>
+
+  <action name="controlBar_classicbuildMenu">
+    
+    set(controlBar_classicbutton_pos, 20);
+
+    set(layer[controlBar_classicbtn_hidecontrols].x, get(controlBar_classicbutton_pos));
+    set(layer[controlBar_classicbtn_showcontrols].x, get(controlBar_classicbutton_pos));
+    inc(controlBar_classicbutton_pos, 36);
+    add(controlBar_classicbackgroundwidthwhenclosed, get(controlBar_classicbutton_pos), 20);
+
+
+
+    if (device.fullscreensupport,
+      set(layer[controlBar_classicbtn_openfs ].x, get(controlBar_classicbutton_pos));
+      set(layer[controlBar_classicbtn_closefs].x, get(controlBar_classicbutton_pos));
+      inc(controlBar_classicbutton_pos, 36);
+    );
+
+
+
+    set(layer[controlBar_classicbtn_autorotate_on ].x, get(controlBar_classicbutton_pos));
+    set(layer[controlBar_classicbtn_autorotate_off].x, get(controlBar_classicbutton_pos));
+    inc(controlBar_classicbutton_pos, 36);
+
+
+
+
+
+
+
+    if (device.desktop,
+        set(layer[controlBar_classicbtn_right].x, get(controlBar_classicbutton_pos));
+        inc(controlBar_classicbutton_pos, 36);
+        set(layer[controlBar_classicbtn_left].x, get(controlBar_classicbutton_pos));
+        inc(controlBar_classicbutton_pos, 36);
+    );
+    if (device.desktop,
+        set(layer[controlBar_classicbtn_down].x, get(controlBar_classicbutton_pos));
+        inc(controlBar_classicbutton_pos, 36);
+        set(layer[controlBar_classicbtn_up].x, get(controlBar_classicbutton_pos));
+        inc(controlBar_classicbutton_pos, 36);
+    );
+    if (device.desktop,
+        set(layer[controlBar_classicbtn_out].x, get(controlBar_classicbutton_pos));
+        inc(controlBar_classicbutton_pos, 36);
+        set(layer[controlBar_classicbtn_in].x, get(controlBar_classicbutton_pos));
+        inc(controlBar_classicbutton_pos, 36);
+    );
+
+
+    inc(controlBar_classicbutton_pos, 20);
+
+    set(controlBar_classicbackgroundwidthwhenopened, get(controlBar_classicbutton_pos));
+
+
+
+    
+    add(controlBar_classicVerifyVisibility, 20, 20);
+    if(controlBar_classicbackgroundwidthwhenopened == controlBar_classicVerifyVisibility,
+      set(controlBar_classicbackgroundwidthwhenopened, 0);
+
+
+    );
+
+	
+	
+  </action>
+
+	<events name="controlBar_classicStartTourEvents" onTourStart="controlBar_classicCallOnStartTour();" keep="true" />
+
+	<action name="controlBar_classicCallOnStartTour">
+		
+		set(layer[controlBar_classicmenu_controlbar_bg_img].width, get(controlBar_classicbutton_pos));
+		set(layer[controlBar_classicmenu_controlbar_bg].width, get(controlBar_classicbutton_pos));
+		controlBar_classicshowMenuControls();
+	</action>
+
+
+
+  <style name="controlBar_classic_btn_style"
+         keep="true"
+         alpha="0.8"
+         edge="right" align="right"
+         width="36" height="36"
+         zorder="5"
+         onover="controlBar_classicctrlbaronoveraction();"
+         onout="controlBar_classicctrlbaronoutaction();"
+         onhover="showTooltip('plugin', controlBar_classicmenuTooltipStyle, bottom);"
+         />
+  <action name="controlBar_classicctrlbaronoveraction">
+    tween(alpha,1,0.1,easeoutquad);
+    tween(y,-2,0.1,easeoutquad);
+  </action>  
+  <action name="controlBar_classicctrlbaronoutaction">
+    tween(alpha,0.8);
+    tween(y,0,0.1,easeoutquad);
+    hideTooltip();
+  </action>
+
+  <layer name="controlBar_classicmenu_controlbar_bg_img"
+         keep="true"
+         align="bottom"
+         x="0" y="10"
+         url="%FIRSTXML%/graphics/classiccontrolbar/footer.png"
+         zorder="3"
+         width="40"
+         height="40"
+         scale9grid="10|10|80|80"
+         visible="false"
+         />
+  <layer name="controlBar_classicmenu_controlbar_bg"
+         keep="true"
+         align="bottom"
+         x="0" y="10"
+         type="container"
+         zorder="4"
+         width="40"
+         height="40"
+         visible="false"
+         alpha="1.0"
+         >
+
+
+
+    <layer name="controlBar_classicbtn_in"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_zoom_in.png"
+            ondown="viewControlZoomIn(false);"
+            onup="viewControlZoomStop();
+"
+            style="controlBar_classic_btn_style"
+            tooltip="controlBar_classiczoomInTip"
+            devices="desktop"
+            visible="false"
+            />
+    <layer name="controlBar_classicbtn_out"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_zoom_out.png"
+            ondown="viewControlZoomOut(false);
+"
+            onup="viewControlZoomStop();
+"
+            style="controlBar_classic_btn_style"
+            tooltip="controlBar_classiczoomOutTip"
+            devices="desktop"
+            visible="false"
+            />
+
+    <layer name="controlBar_classicbtn_left"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_move_left.png"
+            ondown="viewControlMoveLeft(false);
+"
+            onup="viewControlMoveHoriStop();
+"
+            style="controlBar_classic_btn_style"
+            tooltip="controlBar_classicmoveLeftTip"
+            devices="desktop"
+            visible="false"
+            />
+    <layer name="controlBar_classicbtn_right"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_move_right.png"
+            ondown="viewControlMoveRight(false);
+"
+            onup="viewControlMoveHoriStop();
+"
+            style="controlBar_classic_btn_style"
+            tooltip="controlBar_classicmoveRightTip"
+            devices="desktop"
+            visible="false"
+            />
+
+    <layer name="controlBar_classicbtn_up"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_move_up.png"
+            ondown="viewControlMoveUp(false);
+"
+            onup="viewControlMoveVertStop();
+"
+            style="controlBar_classic_btn_style"
+            tooltip="controlBar_classicmoveUpTip"
+            devices="desktop"
+            visible="false"
+            />
+    <layer name="controlBar_classicbtn_down"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_move_down.png"
+            ondown="viewControlMoveDown(false);
+"
+            onup="viewControlMoveVertStop();
+"
+            style="controlBar_classic_btn_style"
+            tooltip="controlBar_classicmoveDownTip"
+            devices="desktop"
+            visible="false"
+            />
+
+
+
+
+
+    <layer name="controlBar_classicbtn_openfs"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_enter_fs.png"
+            onclick="enterFullscreen();
+"
+            style="controlBar_classic_btn_style"
+            devices="fullscreensupport"
+            visible="false"
+            tooltip="controlBar_classicopenFsTip"
+            />
+    <layer name="controlBar_classicbtn_closefs"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_close_fs.png"
+            onclick="exitFullscreen();
+"
+            style="controlBar_classic_btn_style"
+            visible="false"
+            devices="fullscreensupport"
+            tooltip="controlBar_classiccloseFsTip"
+            />
+
+    <layer name="controlBar_classicbtn_autorotate_on"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_start_autorotation.png"
+            onclick="resumeautorotation();
+"
+            style="controlBar_classic_btn_style"
+            visible="false"
+            tooltip="controlBar_classicautorotateOnTip"
+            />
+    <layer name="controlBar_classicbtn_autorotate_off"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_stop_autorotation.png"
+            onclick="pauseautorotation();
+"
+            style="controlBar_classic_btn_style"
+            visible="false"
+            tooltip="controlBar_classicautorotateOffTip"
+            />
+
+
+
+
+
+    <layer name="controlBar_classicbtn_hidecontrols"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_hide_controls.png"
+            style="controlBar_classic_btn_style"
+            onclick="controlBar_classichideMenuControls();hideTourControls();
+"
+            visible="false"
+            tooltip="controlBar_classichideControlsTip"
+            />
+    <layer name="controlBar_classicbtn_showcontrols"
+            url="%FIRSTXML%/graphics/classiccontrolbar/btn_show_controls.png"
+            style="controlBar_classic_btn_style"
+            onclick="controlBar_classicshowMenuControls();showTourControls();
+"
+            tooltip="controlBar_classicdisplayControlsTip"
+            visible="false"
+            />
+  </layer>
+
+
+
+
+
+  <action name="controlBar_classichideMenuControls">
+    set(controlBar_classicIsOpened, false);
+    set(layer[controlBar_classicbtn_hidecontrols].visible, false);
+    set(layer[controlBar_classicbtn_showcontrols].visible, true);
+    controlBar_classicupdateFullscreenButtons();
+
+
+    controlBar_classicupdateAutorotationButtons();
+
+
+    set(layer[controlBar_classicbtn_up].visible  , false);
+    set(layer[controlBar_classicbtn_down].visible, false);
+    set(layer[controlBar_classicbtn_right].visible, false);
+    set(layer[controlBar_classicbtn_left].visible , false);
+    set(layer[controlBar_classicbtn_in].visible , false);
+    set(layer[controlBar_classicbtn_out].visible, false);
+
+
+
+
+
+
+    if(controlBar_classicbackgroundwidthwhenclosed == 0,
+      set(layer[controlBar_classicmenu_controlbar_bg_img].visible, false);
+      set(layer[controlBar_classicmenu_controlbar_bg].visible, false);
+    ,
+      set(layer[controlBar_classicmenu_controlbar_bg_img].visible, true);
+      set(layer[controlBar_classicmenu_controlbar_bg].visible, true);
+    );
+    tween(layer[controlBar_classicmenu_controlbar_bg_img].width,get(controlBar_classicbackgroundwidthwhenclosed),0.5,easeOutQuad);
+    tween(layer[controlBar_classicmenu_controlbar_bg].width,get(controlBar_classicbackgroundwidthwhenclosed),0.5,easeOutQuad);
+    tween(layer[controlBar_classicmenu_controlbar_bg_img].alpha,1.0,0.5,easeOutQuad);
+  </action>
+  <action name="controlBar_classicshowMenuControls">
+    set(controlBar_classicIsOpened, true);
+    set(layer[controlBar_classicbtn_hidecontrols].visible, true);
+    set(layer[controlBar_classicbtn_showcontrols].visible, false);
+    if(controlBar_classicbackgroundwidthwhenopened == 0,
+      set(layer[controlBar_classicmenu_controlbar_bg_img].visible, false);
+      set(layer[controlBar_classicmenu_controlbar_bg].visible, false);
+    ,
+      set(layer[controlBar_classicmenu_controlbar_bg_img].visible, true);
+      set(layer[controlBar_classicmenu_controlbar_bg].visible, true);
+    );
+    tween(layer[controlBar_classicmenu_controlbar_bg_img].alpha,1.0,0.5,easeOutQuad);
+    controlBar_classicshowMenuButtons();
+
+
+      tween(layer[controlBar_classicmenu_controlbar_bg_img].width, get(controlBar_classicbackgroundwidthwhenopened),0.5,easeOutQuad);
+      tween(layer[controlBar_classicmenu_controlbar_bg].width, get(controlBar_classicbackgroundwidthwhenopened),0.5,easeOutQuad);
+
+
+  </action>
+  <action name="controlBar_classicshowMenuButtons">
+    if (device.desktop,
+    set(layer[controlBar_classicbtn_up].visible  , true);
+    set(layer[controlBar_classicbtn_down].visible, true);
+    );
+    if (device.desktop,
+    set(layer[controlBar_classicbtn_right].visible, true);
+    set(layer[controlBar_classicbtn_left].visible , true);
+    );
+    if (device.desktop,
+    set(layer[controlBar_classicbtn_in].visible , true);
+    set(layer[controlBar_classicbtn_out].visible, true);
+    );
+
+
+
+
+
+
+    controlBar_classicupdateFullscreenButtons();
+
+
+    controlBar_classicupdateAutorotationButtons();
+
+
+  </action>
+
+
+
+	<events name="controlBar_classicmenufullscreenchangeevent"
+		onenterfullscreen="controlBar_classicupdateFullscreenButtons();"
+		onexitfullscreen="controlBar_classicupdateFullscreenButtons();"
+		keep="true"/>
+	<action name="controlBar_classicHideFullscreenButtons">
+		set(layer[controlBar_classicbtn_openfs].visible , false);
+		set(layer[controlBar_classicbtn_closefs].visible, false);
+	</action>
+	<action name="controlBar_classicShowFullscreenButtons">
+		if (device.fullscreensupport,
+			if(tour_fullscreen,
+				set(layer[controlBar_classicbtn_openfs].visible , false);
+				set(layer[controlBar_classicbtn_closefs].visible, true);
+			,
+				set(layer[controlBar_classicbtn_openfs].visible ,true);
+				set(layer[controlBar_classicbtn_closefs].visible,false);
+			);
+		,
+			controlBar_classicHideFullscreenButtons();
+		);
+	</action>
+	<action name="controlBar_classicupdateFullscreenButtons">
+		if (controlBar_classicIsOpened,
+			controlBar_classicShowFullscreenButtons();
+		,
+			controlBar_classicHideFullscreenButtons();
+		);
+	</action>
+
+	<events name="controlBar_classicAutorotationEvents"
+		onstartautorotation="controlBar_classicupdateAutorotationButtons();"
+		onresumeautorotation="controlBar_classicupdateAutorotationButtons();"
+		onstopautorotation="controlBar_classicupdateAutorotationButtons();"
+		onpauseautorotation="controlBar_classicupdateAutorotationButtons();"
+		keep="true"/>
+	<action name="controlBar_classicHideAutorotationButtons">
+		set(layer[controlBar_classicbtn_autorotate_off].visible, false);
+		set(layer[controlBar_classicbtn_autorotate_on].visible , false);
+	</action>
+	<action name="controlBar_classicShowAutorotationButtons">
+		if(autorotate.enabled == false,
+			set(layer[controlBar_classicbtn_autorotate_off].visible, false);
+			set(layer[controlBar_classicbtn_autorotate_on].visible , true);
+		,
+			set(layer[controlBar_classicbtn_autorotate_off].visible, true);
+			set(layer[controlBar_classicbtn_autorotate_on].visible , false);
+		);
+	</action>
+	<action name="controlBar_classicupdateAutorotationButtons">
+		if (controlBar_classicIsOpened,
+			controlBar_classicShowAutorotationButtons();
+		,
+			controlBar_classicHideAutorotationButtons();
+		);
+	</action>
+
+
+
+
+<layer name="controlBar_classicmenuTooltipStyle"
+	keep="true"
+	enabled="false"
+	capture="false"
+	type="text"
+	align="center"
+	bg="false"
+	bgborder="0"
+	txtshadow="1.0 1.0 4.0 0x000000 1"
+	css="color:#e6e6e6;font-family:Helvetica;font-weight:bold;font-size:14px;text-align:left;"
+	interactivecontent="false"
+	zorder="0"
+	visible="false"
+	html=""
+	padding="2"
+	xoffset="0"
+	yoffset="0"
+	edge="bottom"
+	/>
+
+
+
+<!-- ********** -->
+<!-- Night Button -->
+<!-- id : togglebutton1 -->
+<!-- ********** -->
+
+
+
+  <layer name="togglebutton1"
+         keep="true"
+         url="%FIRSTXML%/graphics/togglebutton1/night.png" 
+         align="topright"
+         x="10"
+         y="170"
+         zorder="6"
+         state="true"
+         onclick="togglebutton1OnClick"
+         alpha="0.7"
+         onover="tween(scale, 1.2,0.5,easeOutQuad);tween(alpha,1.0,0.5,easeOutQuad);"
+         onout="tween(scale, 1.0,0.5,easeOutQuad);tween(alpha,0.7,0.5,easeOutQuad);"
+         visible="false"
+         />
+
+  <action name="togglebutton1OnClick">
+    if (state,
+      set(state, false);
+          mainloadscene(pano39);lookat(-96.790000, 0.330000, 67.620000);
+
+
+     ,
+      set(state, true);
+
+    );
+  </action>
+
+  <events name="togglebutton1events" 
+    onTourStart="showtogglebutton1();"
+    hidetourcontrols="hidetogglebutton1();" 
+    showtourcontrols="showtogglebutton1();" 
+    keep="true" />
+  <action name="hidetogglebutton1">set(layer[togglebutton1].visible, false);</action>
+  <action name="showtogglebutton1">if(tour_displaycontrols,set(layer[togglebutton1].visible, true);,hidetogglebutton1(););</action>
+
+ <!-- 360Images Call Out Titles Plugin -->        <include url="%FIRSTXML%/graphics/callouttitles.xml"/>  <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Bandra Worli Sealink" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="150" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"   rotate="-30"  minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titlescallout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titlescallout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titlescallout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titlescallout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titlescallout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titlescallout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titlescallout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"     rotate="30"   bgborder="0,2,0,0 0xffffff"           edge="right" align="top"       maskchildren="true" /> <style name="call_out_titlescallout_title" type="text" enabled="false"   align="topright" ox="-10"    bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:right;"  padding="5 10" /> <style name="call_out_titlescallout_desc" type="text" enabled="false"   align="bottomright" edge="topright"    bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:right;"  padding="5 0" /> <style name="call_out_titlescallout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Amarsons Garden" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="100" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"   rotate="-90"  minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles2callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles2callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles2callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles2callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles2callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles2callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles2callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"     rotate="90"   bgborder="0,2,0,0 0xffffff"           edge="right" align="top"       maskchildren="true" /> <style name="call_out_titles2callout_title" type="text" enabled="false"   align="topright" ox="-10"    bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:right;"  padding="5 10" /> <style name="call_out_titles2callout_desc" type="text" enabled="false"   align="bottomright" edge="topright"    bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:right;"  padding="5 80" /> <style name="call_out_titles2callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Priyadarshani Park" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="50" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"   rotate="-120"  minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles3callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles3callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles3callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles3callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles3callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles3callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles3callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"     rotate="120"   bgborder="0,2,0,0 0xffffff"           edge="right" align="top"       maskchildren="true" /> <style name="call_out_titles3callout_title" type="text" enabled="false"   align="topright" ox="-10"    bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:right;"  padding="5 10" /> <style name="call_out_titles3callout_desc" type="text" enabled="false"   align="bottomright" edge="topright"    bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:right;"  padding="5 0" /> <style name="call_out_titles3callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Lower Parel" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="100" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="0"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles4callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles4callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles4callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles4callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles4callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles4callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles4callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-0"   bgborder="0,0,0,2 0xffffff"        edge="bottomleft" align="topright"        maskchildren="true" /> <style name="call_out_titles4callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles4callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles4callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Jaslok Hospital" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="70" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"   rotate="-180"  minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles5callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles5callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles5callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles5callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles5callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles5callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles5callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"     rotate="180"   bgborder="0,2,0,0 0xffffff"          edge="topright" align="topleft"       maskchildren="true" /> <style name="call_out_titles5callout_title" type="text" enabled="false"   align="topright" ox="-10"    bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:right;"  padding="5 10" /> <style name="call_out_titles5callout_desc" type="text" enabled="false"   align="bottomright" edge="topright"    bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:right;"  padding="5 0" /> <style name="call_out_titles5callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Villa Theresa School" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="100" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="180"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles6callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles6callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles6callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles6callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles6callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles6callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles6callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-180"   bgborder="0,0,0,2 0xffffff"          edge="topleft" align="topright"         maskchildren="true" /> <style name="call_out_titles6callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles6callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles6callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Hanging Gardens" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="140" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="110"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles7callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles7callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles7callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles7callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles7callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles7callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles7callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-110"   bgborder="0,0,0,2 0xffffff"           edge="left" align="top"         maskchildren="true" /> <style name="call_out_titles7callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles7callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles7callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="International Airport" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="150" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="0"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles8callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles8callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles8callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles8callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles8callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles8callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles8callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-0"   bgborder="0,0,0,2 0xffffff"        edge="bottomleft" align="topright"        maskchildren="true" /> <style name="call_out_titles8callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles8callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles8callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Domestic Airport" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="100" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="30"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles9callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles9callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles9callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles9callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles9callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles9callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles9callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-30"   bgborder="0,0,0,2 0xffffff"           edge="left" align="top"         maskchildren="true" /> <style name="call_out_titles9callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles9callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles9callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Bandra Kurla Complex" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="100" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"   rotate="-0"  minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles10callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles10callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles10callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles10callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles10callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles10callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles10callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"     rotate="0"   bgborder="0,2,0,0 0xffffff"        edge="bottomright" align="topleft"      maskchildren="true" /> <style name="call_out_titles10callout_title" type="text" enabled="false"   align="topright" ox="-10"    bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:right;"  padding="5 10" /> <style name="call_out_titles10callout_desc" type="text" enabled="false"   align="bottomright" edge="topright"    bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:right;"  padding="5 0" /> <style name="call_out_titles10callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Chowpatty Beach" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="150" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="0"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles11callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles11callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles11callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles11callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles11callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles11callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles11callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-0"   bgborder="0,0,0,2 0xffffff"        edge="bottomleft" align="topright"        maskchildren="true" /> <style name="call_out_titles11callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles11callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles11callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Malabar Hill Club" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="150" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="0"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles12callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles12callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles12callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles12callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles12callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles12callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles12callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-0"   bgborder="0,0,0,2 0xffffff"        edge="bottomleft" align="topright"        maskchildren="true" /> <style name="call_out_titles12callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles12callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles12callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Nariman Point" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="50" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="0"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles13callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles13callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles13callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles13callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles13callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles13callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles13callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-0"   bgborder="0,0,0,2 0xffffff"        edge="bottomleft" align="topright"        maskchildren="true" /> <style name="call_out_titles13callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles13callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles13callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Colaba" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="50" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="0"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles14callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles14callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles14callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles14callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles14callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles14callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles14callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-0"   bgborder="0,0,0,2 0xffffff"        edge="bottomleft" align="topright"        maskchildren="true" /> <style name="call_out_titles14callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles14callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles14callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="Walkeshwar Temple" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="100" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="90"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles15callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles15callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles15callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles15callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles15callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles15callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles15callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-90"   bgborder="0,0,0,2 0xffffff"           edge="left" align="top"         maskchildren="true" /> <style name="call_out_titles15callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles15callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles15callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/>  <!-- 360Images Call Out Titles Plugin -->      <callout author_context="true"/> <style distancepopup="2" distancepopup.tablet="3" distancepopup.mobile="5" visible="false" callout_type="centerscreen" callout_type.mobile="centerscreen" callout_type.tablet="centerscreen" name="St Elizabeth Hospital" type="container" width="10" height="10"  bgroundedge="10"  bgcolor="0xffffff" bgalpha="1.00" bgborder="2 0xffffff 1.00" toheight="100" pumpitup="true" pumpitup.mobile="true" pumpitup.tablet="true"  rotate="0"   minfov="180" maxfov="1" minfov.mobile="180" maxfov.mobile="1" minfov.tablet="180" maxfov.tablet="1" onloaded=" txtadd(parentspot,'hotspot[',get(name),']');  txtadd(callout_pulse,'callout_pulse_',get(name)); addlayer(get(callout_pulse)); layer[get(callout_pulse)].loadstyle(call_out_titles16callout_pulse); copy(layer[get(callout_pulse)].parent,parentspot);   txtadd(callout_line,'callout_line_',get(name)); addlayer(get(callout_line)); copy(hotspot[get(name)].callout_line,callout_line); layer[get(callout_line)].loadstyle(call_out_titles16callout_line); copy(layer[get(callout_line)].parent,parentspot); copy(layer[get(callout_line)].x,xpoint); copy(layer[get(callout_line)].y,ypoint);  txtadd(callout_line_vertical,'callout_line_vertical_',get(name)); addlayer(get(callout_line_vertical)); copy(hotspot[get(name)].callout_line_vertical,callout_line_vertical); layer[get(callout_line_vertical)].loadstyle(call_out_titles16callout_line_vertical); txtadd(parentlayer,'layer[',get(callout_line),']'); copy(layer[get(callout_line_vertical)].parent,parentlayer); txtadd(callout_title,'callout_title_',get(name)); addlayer(get(callout_title)); copy(hotspot[get(name)].callout_title,callout_title); layer[get(callout_title)].loadstyle(call_out_titles16callout_title); txtadd(parentlayer2,'layer[',get(callout_line_vertical),']'); copy(layer[get(callout_title)].parent,parentlayer2); getmessage(montitre, get(tooltip)); copy(layer[get(callout_title)].html,montitre);  txtadd(callout_desc,'callout_desc_',get(name)); addlayer(get(callout_desc)); copy(hotspot[get(name)].callout_desc,callout_desc); layer[get(callout_desc)].loadstyle(call_out_titles16callout_desc); copy(layer[get(callout_desc)].parent,callout_title); getmessage(madesc, get(descriptionid)); copy(layer[get(callout_desc)].html,madesc);  if(hotspot[get(name)].onclick, copy(layer[get(callout_line_vertical)].onclick,hotspot[get(name)].onclick);set(layer[get(callout_line_vertical)].bgcapture,true)); if(hotspot[get(name)].callout_type == onuserclick, set(hotspot[get(name)].onclick,oncallout());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); if(hotspot[get(name)].callout_type == onover, set(hotspot[get(name)].onover,oncallout());set(hotspot[get(name)].onout,oncallin());set(hotspot[get(name)].bgcapture,true);set(hotspot[get(name)].handcursor,true)); set(events[testshotspots].onviewchanged,testhotspots();) "  oncallout="animate_callout(get(callout_line), get(callout_line_vertical), get(callout_title), get(callout_desc),get(toheight));" oncallin="animate_callin(get(callout_line), get(callout_line_vertical));" /> <style name="call_out_titles16callout_line" type="container" width="2" height="0" bgalpha="1" bgcolor="0xffffff" align="top" edge="bottom" /> <style name="call_out_titles16callout_line_vertical" type="container" width="0" height="0" bgcolor="0xffffff"   rotate="-0"   bgborder="0,0,0,2 0xffffff"        edge="bottomleft" align="topright"        maskchildren="true" /> <style name="call_out_titles16callout_title" type="text" enabled="false"  align="topleft" ox="10"     bg="true" bgcolor="0x961102" bgalpha="1"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 10" /> <style name="call_out_titles16callout_desc" type="text" enabled="false"  align="bottomleft" edge="topleft"     bg="false"   bgborder="false"   css="color:#ffffff;font-family:Arial;font-size:15px;text-align:left;"  padding="5 0" /> <style name="call_out_titles16callout_pulse" type="container" align="center" bg="false" bgborder="3 0xffffff 1.00"  bgroundedge="calc:10 * 2"  width="10" height="10" onloaded="pulse(get(name))"/> 
+  <!-- Fullscreen Management -->
+  <action name="exitFullScreen" devices="fullscreensupport">set(tour_fullscreen,false);set(fullscreen,false);</action>
+  <action name="enterFullScreen" devices="fullscreensupport">set(tour_fullscreen,true);set(fullscreen,true);</action>
+  <action name="switchFullScreen">if(tour_fullscreen,exitFullScreen();,enterFullScreen(););</action>
+
+  
+  <events name="krpanoExitFullscreenEvent"
+    onexitfullscreen="if(tour_fullscreen,exitFullScreenChangeEvent(););"
+    keep="true" />
+
+  <action name="exitFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,false);events.dispatch(onexitfullscreen);</action>
+
+<action name="viewControlMoveUp">
+	if(%1,
+		if(%2,
+			set(isfullvertical, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewvfov, panoview.vmax, panoview.vmin);
+				if (viewvfov == 180,
+					set(isfullvertical, true);
+				);
+			);
+			if(isfullvertical == false AND calc(view.vlookat-%2) LT view.vlookatmin,
+				moveto(get(view.hlookat), get(view.vlookatmin));
+			,
+				moveto(get(view.hlookat), calc(view.vlookat-%2));
+			);
+		,
+			set(vlookat_moveforce, -1);
+			delayedcall(0.1, viewControlMoveVertStop());
+		);
+	,
+		set(vlookat_moveforce, -1);
+	);
+</action>
+<action name="viewControlMoveDown">
+	if(%1,
+		if(%2,
+			set(isfullvertical, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewvfov, panoview.vmax, panoview.vmin);
+				if (viewvfov == 180,
+					set(isfullvertical, true);
+				);
+			);
+			if(sceneisfull360 == false AND calc(view.vlookat+%2) GT view.vlookatmax,
+				moveto(get(view.hlookat), get(view.vlookatmax));
+			,
+				moveto(get(view.hlookat), calc(view.vlookat+%2));
+			);
+		,
+			set(vlookat_moveforce, +1);
+			delayedcall(0.1, viewControlMoveVertStop());
+		);
+	,
+		set(vlookat_moveforce, +1);
+	);
+</action>
+<action name="viewControlMoveLeft">
+	if(%1,
+		if(%2,
+			set(isfullhorizontal, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewhfov, panoview.hmax, panoview.hmin);
+				if (viewhfov == 360,
+					set(isfullhorizontal, true);
+				);
+			);
+			if(isfullhorizontal == false AND calc(view.hlookat-%2) LT view.hlookatmin,
+				moveto(get(view.hlookatmin), get(view.vlookat));
+			,
+				moveto(calc(view.hlookat-%2), get(view.vlookat));
+			);
+		,
+			set(hlookat_moveforce, -1);
+			delayedcall(0.1, viewControlMoveHoriStop());
+		);
+	,
+		set(hlookat_moveforce, -1);
+	);
+</action>
+<action name="viewControlMoveRight">
+	if(%1,
+		if(%2,
+			set(isfullhorizontal, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewhfov, panoview.hmax, panoview.hmin);
+				if (viewhfov == 360,
+					set(isfullhorizontal, true);
+				);
+			);
+			if(isfullhorizontal == false AND calc(view.hlookat+%2) GT view.hlookatmax,
+				moveto(get(view.hlookatmax), get(view.vlookat));
+			,
+				moveto(calc(view.hlookat+%2), get(view.vlookat));
+			);
+		,
+			set(hlookat_moveforce, +1);
+			delayedcall(0.1, viewControlMoveHoriStop());
+			
+		);
+	,
+		set(hlookat_moveforce, +1);
+	);
+</action>
+<action name="viewControlMoveHoriStop">
+	set(hlookat_moveforce, 0);
+</action>
+<action name="viewControlMoveVertStop">
+	set(vlookat_moveforce, 0);
+</action>
+
+<action name="viewControlZoomIn">
+	if(%1,
+		if(%2,
+			if(%2 LT view.fovmin,
+				zoomto(get(view.fovmin));
+			,
+				if(%2 LT view.fov,
+					zoomto(%2);
+				);
+			);
+		,
+			set(fov_moveforce, -1);
+			delayedcall(0.1, viewControlZoomStop());
+		);
+	,
+		set(fov_moveforce, -1);
+	);
+</action>
+<action name="viewControlZoomOut">
+	if(%1,
+		if(%2,
+			if(%2 GT view.fovmax,
+				zoomto(get(view.fovmax));
+			,
+				if(%2 GT view.fov,
+					zoomto(%2);
+				);
+			);
+		,
+			set(fov_moveforce, +1);
+			delayedcall(0.1, viewControlZoomStop());
+		);
+	,
+		set(fov_moveforce, +1);
+	);
+</action>
+<action name="viewControlZoomStop">
+	set(fov_moveforce, 0);
+</action>
+
+  <!-- Hide / Show Controls -->
+  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
+  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
+
+
+</krpano>

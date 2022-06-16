@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19-pr16">
+
+    
+  <!-- Spot Style - Bandra Worli Sealink -->
+
+
+  <style name="IconBandraWorliSealink"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint0.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconBandraWorliSealink"
+         onout="onoutIconBandraWorliSealink"
+
+
+         />
+  <action name="onhoverIconBandraWorliSealink">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconBandraWorliSealink">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Amarsons Garden -->
+
+
+  <style name="IconAmarsonsGarden"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint1.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconAmarsonsGarden"
+         onout="onoutIconAmarsonsGarden"
+
+
+         />
+  <action name="onhoverIconAmarsonsGarden">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconAmarsonsGarden">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Priyadarshani Park -->
+
+
+  <style name="IconPriyadarshaniPark"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint2.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconPriyadarshaniPark"
+         onout="onoutIconPriyadarshaniPark"
+
+
+         />
+  <action name="onhoverIconPriyadarshaniPark">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconPriyadarshaniPark">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Lower Parel -->
+
+
+  <style name="IconLowerParel"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint3.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconLowerParel"
+         onout="onoutIconLowerParel"
+
+
+         />
+  <action name="onhoverIconLowerParel">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconLowerParel">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Jaslok Hospital -->
+
+
+  <style name="IconJaslokHospital"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint4.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconJaslokHospital"
+         onout="onoutIconJaslokHospital"
+
+
+         />
+  <action name="onhoverIconJaslokHospital">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconJaslokHospital">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Villa Theresa School -->
+
+
+  <style name="IconVillaTheresaSchool"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint5.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconVillaTheresaSchool"
+         onout="onoutIconVillaTheresaSchool"
+
+
+         />
+  <action name="onhoverIconVillaTheresaSchool">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconVillaTheresaSchool">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Hanging Gardens -->
+
+
+  <style name="IconHangingGardens"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint6.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconHangingGardens"
+         onout="onoutIconHangingGardens"
+
+
+         />
+  <action name="onhoverIconHangingGardens">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconHangingGardens">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - International Airport -->
+
+
+  <style name="IconInternationalAirport"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint7.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconInternationalAirport"
+         onout="onoutIconInternationalAirport"
+
+
+         />
+  <action name="onhoverIconInternationalAirport">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconInternationalAirport">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Domestic Airport -->
+
+
+  <style name="IconDomesticAirport"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint8.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconDomesticAirport"
+         onout="onoutIconDomesticAirport"
+
+
+         />
+  <action name="onhoverIconDomesticAirport">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconDomesticAirport">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Bandra Kurla Complex -->
+
+
+  <style name="IconBandraKurlaComplex"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint9.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconBandraKurlaComplex"
+         onout="onoutIconBandraKurlaComplex"
+
+
+         />
+  <action name="onhoverIconBandraKurlaComplex">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconBandraKurlaComplex">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Chowpatty Beach -->
+
+
+  <style name="IconChowpattyBeach"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint10.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconChowpattyBeach"
+         onout="onoutIconChowpattyBeach"
+
+
+         />
+  <action name="onhoverIconChowpattyBeach">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconChowpattyBeach">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Malabar Hill Club -->
+
+
+  <style name="IconMalabarHillClub"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint11.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconMalabarHillClub"
+         onout="onoutIconMalabarHillClub"
+
+
+         />
+  <action name="onhoverIconMalabarHillClub">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconMalabarHillClub">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Nariman Point -->
+
+
+  <style name="IconNarimanPoint"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint12.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconNarimanPoint"
+         onout="onoutIconNarimanPoint"
+
+
+         />
+  <action name="onhoverIconNarimanPoint">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconNarimanPoint">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Colaba -->
+
+
+  <style name="IconColaba"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint13.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconColaba"
+         onout="onoutIconColaba"
+
+
+         />
+  <action name="onhoverIconColaba">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconColaba">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - Walkeshwar Temple -->
+
+
+  <style name="IconWalkeshwarTemple"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint14.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconWalkeshwarTemple"
+         onout="onoutIconWalkeshwarTemple"
+
+
+         />
+  <action name="onhoverIconWalkeshwarTemple">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconWalkeshwarTemple">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - St Elizabeth Hospital -->
+
+
+  <style name="IconStElizabethHospital"
+         url="%FIRSTXML%/spots/hotspot_neutral_user_defaultpoint15.png"
+         visible="false"
+         edge="center"
+         onhover="onhoverIconStElizabethHospital"
+         onout="onoutIconStElizabethHospital"
+
+
+         />
+  <action name="onhoverIconStElizabethHospital">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoutIconStElizabethHospital">
+    hideTooltip();
+
+
+
+  </action>
+
+
+
+<!-- ********** -->
+<!-- Logo -->
+<!-- id : logo -->
+<!-- ********** -->
+
+
+
+
+
+  <!-- Fullscreen Management -->
+  <action name="exitFullScreen" devices="fullscreensupport">set(tour_fullscreen,false);set(fullscreen,false);</action>
+  <action name="enterFullScreen" devices="fullscreensupport">set(tour_fullscreen,true);set(fullscreen,true);</action>
+  <action name="switchFullScreen">if(tour_fullscreen,exitFullScreen();,enterFullScreen(););</action>
+
+  
+  <events name="krpanoExitFullscreenEvent"
+    onexitfullscreen="if(tour_fullscreen,exitFullScreenChangeEvent(););"
+    keep="true" />
+
+  <action name="exitFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,false);events.dispatch(onexitfullscreen);</action>
+
+<action name="viewControlMoveUp">
+	if(%1,
+		if(%2,
+			set(isfullvertical, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewvfov, panoview.vmax, panoview.vmin);
+				if (viewvfov == 180,
+					set(isfullvertical, true);
+				);
+			);
+			if(isfullvertical == false AND calc(view.vlookat-%2) LT view.vlookatmin,
+				moveto(get(view.hlookat), get(view.vlookatmin));
+			,
+				moveto(get(view.hlookat), calc(view.vlookat-%2));
+			);
+		,
+			set(vlookat_moveforce, -1);
+			delayedcall(0.1, viewControlMoveVertStop());
+		);
+	,
+		set(vlookat_moveforce, -1);
+	);
+</action>
+<action name="viewControlMoveDown">
+	if(%1,
+		if(%2,
+			set(isfullvertical, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewvfov, panoview.vmax, panoview.vmin);
+				if (viewvfov == 180,
+					set(isfullvertical, true);
+				);
+			);
+			if(sceneisfull360 == false AND calc(view.vlookat+%2) GT view.vlookatmax,
+				moveto(get(view.hlookat), get(view.vlookatmax));
+			,
+				moveto(get(view.hlookat), calc(view.vlookat+%2));
+			);
+		,
+			set(vlookat_moveforce, +1);
+			delayedcall(0.1, viewControlMoveVertStop());
+		);
+	,
+		set(vlookat_moveforce, +1);
+	);
+</action>
+<action name="viewControlMoveLeft">
+	if(%1,
+		if(%2,
+			set(isfullhorizontal, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewhfov, panoview.hmax, panoview.hmin);
+				if (viewhfov == 360,
+					set(isfullhorizontal, true);
+				);
+			);
+			if(isfullhorizontal == false AND calc(view.hlookat-%2) LT view.hlookatmin,
+				moveto(get(view.hlookatmin), get(view.vlookat));
+			,
+				moveto(calc(view.hlookat-%2), get(view.vlookat));
+			);
+		,
+			set(hlookat_moveforce, -1);
+			delayedcall(0.1, viewControlMoveHoriStop());
+		);
+	,
+		set(hlookat_moveforce, -1);
+	);
+</action>
+<action name="viewControlMoveRight">
+	if(%1,
+		if(%2,
+			set(isfullhorizontal, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewhfov, panoview.hmax, panoview.hmin);
+				if (viewhfov == 360,
+					set(isfullhorizontal, true);
+				);
+			);
+			if(isfullhorizontal == false AND calc(view.hlookat+%2) GT view.hlookatmax,
+				moveto(get(view.hlookatmax), get(view.vlookat));
+			,
+				moveto(calc(view.hlookat+%2), get(view.vlookat));
+			);
+		,
+			set(hlookat_moveforce, +1);
+			delayedcall(0.1, viewControlMoveHoriStop());
+			
+		);
+	,
+		set(hlookat_moveforce, +1);
+	);
+</action>
+<action name="viewControlMoveHoriStop">
+	set(hlookat_moveforce, 0);
+</action>
+<action name="viewControlMoveVertStop">
+	set(vlookat_moveforce, 0);
+</action>
+
+<action name="viewControlZoomIn">
+	if(%1,
+		if(%2,
+			if(%2 LT view.fovmin,
+				zoomto(get(view.fovmin));
+			,
+				if(%2 LT view.fov,
+					zoomto(%2);
+				);
+			);
+		,
+			set(fov_moveforce, -1);
+			delayedcall(0.1, viewControlZoomStop());
+		);
+	,
+		set(fov_moveforce, -1);
+	);
+</action>
+<action name="viewControlZoomOut">
+	if(%1,
+		if(%2,
+			if(%2 GT view.fovmax,
+				zoomto(get(view.fovmax));
+			,
+				if(%2 GT view.fov,
+					zoomto(%2);
+				);
+			);
+		,
+			set(fov_moveforce, +1);
+			delayedcall(0.1, viewControlZoomStop());
+		);
+	,
+		set(fov_moveforce, +1);
+	);
+</action>
+<action name="viewControlZoomStop">
+	set(fov_moveforce, 0);
+</action>
+
+  <!-- Hide / Show Controls -->
+  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
+  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
+
+
+</krpano>
